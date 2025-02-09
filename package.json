@@ -1,0 +1,24 @@
+{
+  "name": "strive",
+  "version": "1.0.0",
+  "main": "expo-router/entry-classic",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "expo": "^52.0.31",
+    "expo-router": "~4.0.17",
+    "expo-splash-screen": "~0.29.21",
+    "metro": "^0.81.0",
+    "metro-source-map": "^0.80.5",
+    "react-native": "0.76.7",
+    "react": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "~18.3.12",
+    "typescript": "^5.3.3"
+  }
+}
